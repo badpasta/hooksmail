@@ -48,8 +48,8 @@ class mailClientBase(object):
 
 
 class mail163(mailClientBase):
-    user = '882406701'
-    passwd = 'whereareyou@y'
+    user = '*'
+    passwd = '*'
     sendserver =  'smtp.163.com'
     sendport = 25
     recvserver = 'imap.163.com'

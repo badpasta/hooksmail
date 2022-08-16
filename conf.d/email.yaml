@@ -6,6 +6,6 @@
   sendport: 25
   receive_server: "imap.163.com"
   receive_port: 143
-  username: "882406701"
-  password: "whereareyou@y"
+  username: "*"
+  password: "*"
 
